@@ -1,0 +1,2 @@
+cara mengtasi eror pada git hub tidak muncul 
+(git pull --rebase origin main)
